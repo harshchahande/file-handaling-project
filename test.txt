@@ -1,0 +1,5 @@
+
+<tr > <td> <b >  Full Name </b> </td> <td> <b>  Email </b> </td> <td> <b>Mobile number </b> </td> <td><b> Password</b> </td>  <td><b> Confirm Password</b></td>  </tr>
+
+<tr> <td>  harsh </td> <td> harshchahande123@gmail.com </td>  <td> 789 </td> <td> 7038649641 </td> <td> 123 </td> </tr> 
+ 
